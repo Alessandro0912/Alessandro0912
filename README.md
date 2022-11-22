@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Lua (5.1), HTML & CSS + JS, Python, SQL, PHP, Java**
 
-- 📫 Mein Discord Account: **Alessandro#7777**
+- 📫 Mein Discord Account: **Alessandro#1234**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Sx4XpUmRby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sx4XpUmRby" height="30" width="40" /></a>
+<a href="https://discord.gg/newrevolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sx4XpUmRby" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
