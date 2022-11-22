@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandro0912" alt="alessandro0912" /></a> </p>
 
-- 🔭 FiveM Projektinhaber [LittleCity](https://discord.gg/Sx4XpUmRby)
+- 🔭 FiveM Serverleitung [NewRevolution](https://discord.gg/newrevolution)
 
 - 🌱 I’m currently learning **Lua (5.1), HTML & CSS + JS, Python, SQL, PHP, Java**
 
