@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandro0912" alt="alessandro0912" /></a> </p>
 
-- 🔭 Golden-Sunset.de [DISCORD]([https://discord.gg/](https://discord.gg/duNssuCyBS))
+- 🔭 Golden-Sunset.de [DISCORD](https://discord.gg/duNssuCyBS)
 
 - 🌱 I’m currently learning **Lua (5.1) + (5.4), HTML & CSS + JS, Python, SQL**
 
