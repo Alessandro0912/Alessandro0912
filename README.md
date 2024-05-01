@@ -4,7 +4,7 @@
 
 - 🔭 FiveM Serverleitung [SOON](https://discord.gg/)
 
-- 🌱 I’m currently learning **Lua (5.1), HTML & CSS + JS, Python, SQL, PHP, Java**
+- 🌱 I’m currently learning **Lua (5.1), HTML & CSS + JS, Python, SQL**
 
 - 📫 Mein Discord Account: **Alessandro#1234**
 
