@@ -2,11 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandro0912" alt="alessandro0912" /></a> </p>
 
-- 🔭 FiveM Serverleitung [SOON](https://discord.gg/)
+- 🔭 Golden-Sunset.de [DISCORD]([https://discord.gg/](https://discord.gg/duNssuCyBS))
 
 - 🌱 I’m currently learning **Lua (5.1) + (5.4), HTML & CSS + JS, Python, SQL**
-
-- 📫 Mein Discord Account: **Alessandro#1234**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
